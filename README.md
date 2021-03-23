@@ -1,1 +1,1 @@
-# Netflix-Landing-Page-Clone
+# Netflix-LandingPage-Clone
